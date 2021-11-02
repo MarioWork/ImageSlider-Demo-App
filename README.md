@@ -2,7 +2,7 @@
  This App was created to learn how to use [Image Slider Library](https://github.com/smarteist/Android-Image-Slider) in Android Studio.
  
  ## Technologies
-+ Java
++ Java 8
 + Android Studio 
 
 ## Some APP UI Images
